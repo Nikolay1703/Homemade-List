@@ -1,0 +1,8 @@
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\bin\Debug\netcoreapp3.1\HomemadeListLibrary.deps.json
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\bin\Debug\netcoreapp3.1\HomemadeListLibrary.dll
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\bin\Debug\netcoreapp3.1\HomemadeListLibrary.pdb
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\obj\Debug\netcoreapp3.1\HomemadeListLibrary.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\obj\Debug\netcoreapp3.1\HomemadeListLibrary.AssemblyInfo.cs
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\obj\Debug\netcoreapp3.1\HomemadeListLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\obj\Debug\netcoreapp3.1\HomemadeListLibrary.dll
+C:\Users\Николай\Desktop\C#\Base-C\HomemadeList\HomemadeListLibrary\obj\Debug\netcoreapp3.1\HomemadeListLibrary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomemadeList/1.0.0": {
+        "dependencies": {
+          "HomemadeListLibrary": "1.0.0"
+        },
+        "runtime": {
+          "HomemadeList.dll": {}
+        }
+      },
+      "HomemadeListLibrary/1.0.0": {
+        "runtime": {
+          "HomemadeListLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomemadeList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomemadeListLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
