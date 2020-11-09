@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeList\\HomemadeList.csproj": {}
+    "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeList\\HomemadeList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj": {
+    "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj",
         "projectName": "HomemadeListLibrary",
-        "projectPath": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj",
+        "projectPath": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj",
         "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeList\\HomemadeList.csproj": {
+    "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeList\\HomemadeList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeList\\HomemadeList.csproj",
+        "projectUniqueName": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeList\\HomemadeList.csproj",
         "projectName": "HomemadeList",
-        "projectPath": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeList\\HomemadeList.csproj",
+        "projectPath": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeList\\HomemadeList.csproj",
         "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeList\\obj\\",
+        "outputPath": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj": {
-                "projectPath": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj"
+              "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj": {
+                "projectPath": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary\\HomemadeListLibrary.csproj"
               }
             }
           }

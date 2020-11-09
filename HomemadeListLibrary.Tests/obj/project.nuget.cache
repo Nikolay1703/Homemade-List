@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1fb+gUjIOXq1j1ZYS5MmpG2i2DFZIQ8JNNXtlM6DhvJKzbA1q8mNBV2rx3TKvk7OlzNwb8WodlcvivBObIPvKA==",
+  "dgSpecHash": "EWnCwjkcpY5rHqFJOcblK2ssiQxE7/+Xe02Ji/5z4jZI1vO8MKMxHRtDpUkE6g+m5rqAeOatLNsCCZgyq73N5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Николай\\Desktop\\C#\\Base-C\\HomemadeList\\HomemadeListLibrary.Tests\\HomemadeListLibrary.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Николай\\Desktop\\C#\\HomemadeList\\HomemadeListLibrary.Tests\\HomemadeListLibrary.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Николай\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Николай\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
